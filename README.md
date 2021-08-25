@@ -1,13 +1,13 @@
-# :rocket: project_local_library
+# :file_folder: **project_local_library**
 
-## Project description: Local library
+## :memo: Project description: Local library
 
-Your neighborhood has decided to put together a local library where people can lend and borrow books. One of the most important features needed to organize this is a dashboard that will show which books are available, which are currently out, and other general statistics about the program.
+**Your neighborhood has decided to put together a local library where people can lend and borrow books. One of the most important features needed to organize this is a dashboard that will show which books are available, which are currently out, and other general statistics about the program.**
 
-Other people are taking care of the logistics and design, but they need you to build the algorithms.
+**Other people are taking care of the logistics and design, but they need you to build the algorithms.**
 
-## Learning objectives
-This project is designed to test your ability to work with large datasets and build algorithms based on those datasets. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
+## :dart: Learning objectives
+**This project is designed to test your ability to work with large datasets and build algorithms based on those datasets. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:**
 
 * Using Visual Studio Code as a text editor
 * Differentiating between the three most common JavaScript error types
@@ -20,14 +20,14 @@ This project is designed to test your ability to work with large datasets and bu
 * Using `reduce()` to solve different problems
 * Using `sort()` to sort arrays in various ways
 
-## Project steps to complete
-To complete this project, you must do the following:
+## :large_blue_diamond: Project steps to complete
+**To complete this project, you must do the following:**
 
 * Write code that passes all the tests in the Qualified assessment in this lesson.
 * Write code that passes all of the requirements outlined below, and submit your GitHub repo link to the Thinkful team in the next lesson.
 
-## Requirements to pass
-For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
+## :white_check_mark: Requirements to pass
+**For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.**
 
 * All tests are passing in Qualified.
 * The project doesn't include any single-letter variables.
